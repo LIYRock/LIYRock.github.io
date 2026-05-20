@@ -8,6 +8,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server"
   },
+  "packageManager": "pnpm@9",
   "hexo": {
     "version": "8.1.2"
   },
